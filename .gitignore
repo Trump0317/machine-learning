@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# uv
+# uv.lock 通常建议提交（保证依赖版本一致），如不需要可取消下行注释
+# uv.lock
